@@ -76,3 +76,5 @@ namespace CybersecurityChatbot
         }
     }
 }
+
+//Responsible for the tasks that the bot performs
